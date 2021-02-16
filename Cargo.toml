@@ -1,0 +1,11 @@
+[package]
+name = "pulsepriority"
+version = "0.1.0"
+authors = ["yatinmaan"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.36"
+closure = "0.3.0"
+libpulse-binding = "2.23.0"
+structopt = "0.3.15"
